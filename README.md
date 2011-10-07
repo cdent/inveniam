@@ -1,4 +1,4 @@
-_aut ineniam viam aut faciam_
+_aut inveniam viam aut faciam_
 
 Routines for finding nearest neighbors in multi-dimensional space.
 
